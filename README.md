@@ -2,7 +2,7 @@
 
 # Welcome to PedalPress!
 
-![](static/img/pedalpress.png)
+![](pedalpress.png)
 
 ## This site is currently under construction but will soon house all sorts of bicycley goodness.
 
