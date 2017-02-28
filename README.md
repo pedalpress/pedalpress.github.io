@@ -1,6 +1,6 @@
 # Pedal Press
 
-![](pedalpress.png)
+![](images/pedalpress.png)
 
 
-Made with ❤️ in Canada by [Stevie Howard](https://twitter.com/stvhwrd)
+Made with ❤️ in Victoria, British Columbia by [Stevie Howard](https://steviehoward.com)
