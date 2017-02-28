@@ -2,7 +2,7 @@
 
 ![](pedalpress.png)
 
-## This site will soon house all sorts of bicycley goodness.
+#### (This site will soon house all sorts of bicycley goodness)
 
 ## What is Pedal Press?
 
@@ -12,6 +12,9 @@ Pedal Press is a collective of technology-loving bicycle riders.  We want to mak
 
 The beta ride is planned for July 2017!  Feel free to [follow us on Twitter](https://twitter.com/pedal_press) to keep up with any news.
 
-## Thanks for checking us out!
+### Thanks for checking us out!
 
-### #spintowin #pedalpress
+##### #spintowin #pedalpress
+
+
+Made with :heart: in Canada by [@stvhwrd](https://twitter.com/stvhwrd)
