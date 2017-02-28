@@ -24,6 +24,5 @@ The beta ride is planned for July 2017!  Feel free to [follow us on Twitter](htt
 
 <br>
 
-<br>
 
-Made with :heart: in Canada by [Stevie Howard](https://twitter.com/stvhwrd)
+Made with ❤️ in Canada by [Stevie Howard](https://twitter.com/stvhwrd)
