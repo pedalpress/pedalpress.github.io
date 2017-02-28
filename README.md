@@ -12,9 +12,16 @@ Pedal Press is a collective of technology-loving bicycle riders.  We want to mak
 
 The beta ride is planned for July 2017!  Feel free to [follow us on Twitter](https://twitter.com/pedal_press) to keep up with any news.
 
+<br>
+
 ### Thanks for checking us out!
 
-##### #spintowin #pedalpress
+##### #spintowin #bikemakesmehappy #pedalpress
 
+<br>
+
+<br>
+
+<br>
 
 Made with :heart: in Canada by [@stvhwrd](https://twitter.com/stvhwrd)
