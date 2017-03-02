@@ -1,6 +1,6 @@
 # Pedal Press
 
-![](images/pedalpress.png)
+<img src="https://raw.githubusercontent.com/pedalpress/pedalpress.github.io/master/images/pedalpress.svg">
 
 
-Made with ❤️ in Victoria, British Columbia by [Stevie Howard](https://steviehoward.com)
+Built with ♥ in Victoria, British Columbia by [Stevie Howard](https://steviehoward.com)
